@@ -16,6 +16,7 @@ Under the hood *decalage* is just a linearly increasing delay so it is not suite
 
 ## Installation
 
+- Download the latest release
 - Unzip the downloaded file
 - In Ableton live's browser navigate to "Places > User Library > Presets > MIDI Effects"
 - Drag the **decalage.amxd** file onto the "Max MIDI Effect" folder in your browser
@@ -25,3 +26,8 @@ Under the hood *decalage* is just a linearly increasing delay so it is not suite
 
 https://github.com/lucijan/decalage/assets/101366/965efc33-86ab-404e-9f04-adbb2934e50a
 
+## Info
+
+Author: Lucijan Busch
+
+Project homepage: https://github.com/lucijan/decalage
